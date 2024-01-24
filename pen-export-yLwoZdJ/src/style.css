@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    text-align: center;
+    padding: 50px;
+}
+
+#passwordForm {
+    background: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+input[type=number], input[type=button] {
+    padding: 10px;
+    margin: 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    width: 200px;
+}
+
+input[type=checkbox] {
+    margin-right: 5px;
+}
+
+label {
+    margin-right: 10px;
+}
